@@ -10,4 +10,4 @@ python main.py
 ```
 
 ## result
-![image](https://github.com/fangpin/tensorflow-applications/blob/master/gan/dcgan/result.png)
+![image](https://github.com/fangpin/dcgan/blob/master/result.png)
